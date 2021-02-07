@@ -1,0 +1,83 @@
+body{
+    
+}
+
+.fish1{
+  text-align:center;
+  background:radial-gradient( 
+    #78e9c7 60%,#00d4ff 40%);
+   
+    font-size:20px;
+  padding: 20px
+    
+}
+#feesh{
+  width:150px;               
+  border-radius: 75px;
+}
+h1{
+  text-shadow:2px 2px #3f5efb;
+  font-size: 50px;
+  
+    padding:10px;
+    
+}
+h3{
+    font-size:30px;
+         text-shadow:2px 1px #3f5efb;
+}
+h2{
+    font-size: 40px;
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+        right:30px;
+    cursor:  pointer;
+    color:black;
+}
+.menu :hover{
+    background-color: aquamarine;
+}
+#FishingTips a{
+    font-size: 55;
+   margin-left: 550px;
+}
+
+
+#fishingtip{
+    margin-left: 700px;
+}
+#FishingTips{
+    background-color: aquamarine;
+    
+    
+}
+#MyFavoriteFish{
+    align-content: center;
+    background-color: aqua;
+    
+    
+}
+#fishall{
+    background-color: aqua
+}
+}
+inspiration{
+    
+  
+}
+lake{
+    border: 10px solid #AAAAAA;
+  
+}
+lake:hover {
+    transform: scale(0.9);
+}
+#myname{
+    font-size: 100px;
+    background-color: aquamarine;
+    
+}
